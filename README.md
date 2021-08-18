@@ -6,5 +6,5 @@ A dark theme inspired by Obsidian editor and [Cobalt](https://github.com/elitist
 ![Latest Release Version](https://img.shields.io/github/v/release/ronilaukkarinen/typora-obsidianite-theme)
 ![Download Count](https://img.shields.io/github/downloads/ronilaukkarinen/typora-obsidianite-theme/total)
 
-![Splash screen](https://files.servepics.com/iFp9t.png)
+![Splash screen](https://i.imgur.com/WlZcywK.png)
 

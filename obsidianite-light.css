@@ -459,25 +459,22 @@ table tr td:last-child {
 }
 
 .code-tooltip {
-  background: #1a283d;
-  border-top: 1px solid #1a283d;
-  box-shadow: 0 1px 1px 0 rgba(0, 28, 36, 0.3);
+  background: var(--bg-code);
 }
 
 .dropdown-menu {
-  color: #70c0d8;
+  color: var(--text-accent);
   margin-right: 5px;
 }
 
 .file-action-item.not-empty-menu-group.show {
-  background: #1a283d;
-  border-color: #1a283d;
+  background: var(--bg-code);
+  border-color: var(--bg-code);
 }
 
 .sidebar-footer-main-item #sidebar-files-menu {
-  background: #1a283d;
-  border-color: #303d50 !important;
-  color: #6db7d1;
+  background: var(--bg-code);
+  color: var(--text-accent);
 }
 
 .file-action-item.not-empty-menu-group.show a:hover,

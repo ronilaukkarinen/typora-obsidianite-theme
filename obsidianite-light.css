@@ -1069,13 +1069,6 @@ input {
   text-decoration: underline;
 }
 
-.cm-s-inner .CodeMirror-selected,
-.cm-s-inner .CodeMirror-selectedtext {
-  background: #3b4254 !important;
-  color: inherit;
-  text-shadow: none;
-}
-
 #write > p:first-child:empty {
   position: static;
 }
@@ -1101,6 +1094,12 @@ input {
   opacity: 1;
 }
 
+.cm-s-inner .CodeMirror-selected,
+.cm-s-inner .CodeMirror-selectedtext,
+.CodeMirror-selected,
+mark-selection,
 mark {
-  background-color: #b3d7fe;
+  background-color: #b3d7fe !important;
+  color: inherit;
+  text-shadow: none;
 }

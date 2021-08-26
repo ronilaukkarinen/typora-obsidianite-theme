@@ -1100,3 +1100,7 @@ input {
 #write > p:only-child:empty::before {
   opacity: 1;
 }
+
+mark {
+  background-color: #b3d7fe;
+}
